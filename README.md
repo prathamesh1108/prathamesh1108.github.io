@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Full-Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://github.com/prathamesh1108"><img src="https://img.shields.io/github/followers/prathamesh1108?label=Follow&style=social" alt="GitHub" /></a>
   <a href="mailto:pratham46vishwa@gmail.com"><img src="https://img.shields.io/badge/Email-pratham46vishwa@gmail.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/prathamesh-vishwakarma-4a406a1a7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 </p>
@@ -11,12 +10,11 @@
 
 ### 💡 About Me
 
-- 🔭 Currently building **Amulya Artistry** — an eCommerce platform supporting Indian artisans  
+- 🔭 Building **Amulya Artistry** – an eCommerce platform supporting Indian artisans  
 - ⚙️ Working on **Mint Studio** and **ParkingApp** (Next.js + Spring Boot + MySQL)  
-- 📹 Creator of [**GuguGaga-TV**](https://www.youtube.com/@GuguGaga-TV) — a fun & educational kids’ animation channel  
-- 🌱 Actively learning and exploring **System Design**, **Microservices**, and **AI Tools Integration**
-- 👨‍💻 Previously interned at **Trivia Software** and **Kamal Classes**  
-- 🎓 B.E. in Computer Engineering from Mumbai University
+- 📹 Creator of [**GuguGaga-TV**](https://www.youtube.com/@GuguGaga-TV) — fun & educational content for kids  
+- 👨‍💻 Previous experience at **Trivia Software**, **Kamal Classes**, and **TATA Strive**  
+- 🎓 B.E. in Computer Engineering from Mumbai University  
 
 ---
 
@@ -33,7 +31,26 @@
 
 ---
 
-### 🚀 My Projects
+### 🚀 What I Bring to the Table
+
+💡 **Full-Stack Experience**  
+From responsive UIs with React/Next.js to scalable backend APIs with Spring Boot — I design and build end-to-end solutions.
+
+🎯 **Product-Focused Mindset**  
+I solve real-world problems through apps that are fast, functional, and user-centered.
+
+🧩 **Database & Architecture Know-How**  
+Solid hands-on experience with MySQL, Postgres, and Prisma ORM. Comfortable designing schemas and REST APIs.
+
+🛠️ **Efficient Developer**  
+Quick to learn, adaptive, and always thinking in terms of clean code, reusable components, and team productivity.
+
+📚 **Always Learning**  
+Whether it's mastering system design or crafting animated kids’ content, I keep challenging myself.
+
+---
+
+### ✨ Featured Projects
 
 | Project         | Tech Stack                              | Description                                                   |
 |----------------|------------------------------------------|---------------------------------------------------------------|
@@ -44,28 +61,7 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh1108&show_icons=true&theme=radical" alt="Prathamesh's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh1108&theme=radical" />
-</p>
-
----
-
-### 🧠 Currently Learning
-
-- ⚙️ Spring Boot Advanced Concepts  
-- 🧩 Clean Architecture & DDD  
-- 🔐 Prisma ORM & Postgres DB on EDB  
-- ✨ Creative YouTube Animation for Kids  
-
----
-
-### 📫 How to reach me
+### 📫 Let’s Connect
 
 - 📧 pratham46vishwa@gmail.com  
 - 📱 +91 8369968096  
@@ -75,4 +71,3 @@
 ---
 
 _“Code, Create, Connect — Repeat.”_
-
