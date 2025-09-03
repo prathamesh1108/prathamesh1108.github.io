@@ -106,8 +106,8 @@ const About = () => {
           transition={{ duration: 0.6, delay: 0.3 }}
         >
           {[
-            { number: "3+", label: "Years Experience" },
-            { number: "20+", label: "Projects Completed" },
+            { number: "1+", label: "Years Experience" },
+            { number: "3+", label: "Projects Completed" },
             { number: "10+", label: "Technologies" },
             { number: "100%", label: "Client Satisfaction" }
           ].map((stat, index) => (

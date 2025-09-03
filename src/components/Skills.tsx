@@ -23,7 +23,7 @@ const Skills = () => {
     },
     {
       title: "Tools & Tech",
-      skills: ["Git", "GitHub", "Docker", "Linux", "Apache Tomcat"],
+      skills: ["Git", "GitHub", "Docker", "Linux", "Apache Tomcat","Postman","Hugging Face"],
       color: "from-orange-500 to-red-500"
     }
   ]

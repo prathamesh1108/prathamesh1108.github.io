@@ -6,7 +6,8 @@ import { Card, CardContent } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from '@/components/ui/dialog'
-import { ExternalLink, Github, Play, X, Image as ImageIcon, Video } from 'lucide-react'
+import { ExternalLink, Play, X, Image as ImageIcon, Video } from 'lucide-react'
+import { SiGithub } from 'react-icons/si'
 
 const Projects = () => {
   const [selectedProject, setSelectedProject] = useState<number | null>(null)
@@ -150,7 +151,7 @@ const Projects = () => {
                       Live Demo
                     </Button>
                     <Button size="sm" variant="outline">
-                      <Github className="w-4 h-4" />
+                      <SiGithub className="w-4 h-4" />
                     </Button>
                   </div>
                 </CardContent>
@@ -159,7 +160,7 @@ const Projects = () => {
           ))}
         </motion.div>
 
-        {/* Project Modal */}
+       
         <AnimatePresence>
           {selectedProject && (
             <Dialog open={!!selectedProject} onOpenChange={() => setSelectedProject(null)}>
@@ -234,7 +235,7 @@ const Projects = () => {
                           View Live Demo
                         </Button>
                         <Button variant="outline" className="flex-1">
-                          <Github className="w-4 h-4 mr-2" />
+                           <SiGithub className="w-4 h-4 mr-2" /> 
                           View Source Code
                         </Button>
                       </div>
