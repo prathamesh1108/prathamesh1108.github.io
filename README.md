@@ -73,7 +73,7 @@ pnpm run build
 
 - 🔭 Building **Amulya Artistry** – an eCommerce platform supporting Indian artisans  
 - ⚙️ Working on **Mint Studio** and **ParkingApp** (Next.js + Spring Boot + MySQL)  
-- 📹 Creator of [**GuguGaga-TV**](https://www.youtube.com/@GuguGaga-TV) — fun & educational content for kids  
+- 📹 Creator of [**GuguGaga-TV**](https://www.youtube.com/@gugugaga-tv-kids) — fun & educational content for kids  
 - 👨‍💻 Previous experience at **Trivia Software**, **Kamal Classes**, and **TATA Strive**  
 - 🎓 B.E. in Computer Engineering from Mumbai University  
 
@@ -127,7 +127,7 @@ Whether it's mastering system design or crafting animated kids’ content, I kee
 - 📧 pratham46vishwa@gmail.com  
 - 📱 +91 8369968096  
 - 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-vishwakarma-4a406a1a7/)  
-- 🎥 [YouTube Channel – GuguGaga-TV](https://www.youtube.com/@GuguGaga-TV)
+- 🎥 [YouTube Channel – GuguGaga-TV](https://www.youtube.com/@gugugaga-tv-kids)
 
 ---
 
